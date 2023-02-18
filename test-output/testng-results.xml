@@ -2,20 +2,20 @@
 <testng-results ignored="40" total="50" passed="10" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-17T23:12:05 PST" name="Suite" finished-at="2023-02-17T23:12:24 PST" duration-ms="19810">
+  <suite started-at="2023-02-17T23:34:54 PST" name="Suite" finished-at="2023-02-17T23:35:13 PST" duration-ms="19730">
     <groups>
     </groups>
-    <test started-at="2023-02-17T23:12:05 PST" name="Test" finished-at="2023-02-17T23:12:24 PST" duration-ms="19810">
+    <test started-at="2023-02-17T23:34:54 PST" name="Test" finished-at="2023-02-17T23:35:13 PST" duration-ms="19730">
       <class name="Web.TestCases.tDeleteItem">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Web.TestCases.tDeleteItem@2e377400]" started-at="2023-02-17T23:12:20 PST" name="beforeMethod" finished-at="2023-02-17T23:12:20 PST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Web.TestCases.tDeleteItem@2e377400]" started-at="2023-02-17T23:35:10 PST" name="beforeMethod" finished-at="2023-02-17T23:35:10 PST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="DeleteItemTest()[pri:1, instance:Web.TestCases.tDeleteItem@2e377400]" started-at="2023-02-17T23:12:20 PST" name="DeleteItemTest" finished-at="2023-02-17T23:12:21 PST" duration-ms="992" status="PASS">
+        <test-method signature="DeleteItemTest()[pri:1, instance:Web.TestCases.tDeleteItem@2e377400]" started-at="2023-02-17T23:35:10 PST" name="DeleteItemTest" finished-at="2023-02-17T23:35:10 PST" duration-ms="938" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DeleteItemTest -->
-        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:Web.TestCases.tDeleteItem@2e377400]" started-at="2023-02-17T23:12:21 PST" name="updateResults" finished-at="2023-02-17T23:12:21 PST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:Web.TestCases.tDeleteItem@2e377400]" started-at="2023-02-17T23:35:11 PST" name="updateResults" finished-at="2023-02-17T23:35:11 PST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -28,15 +28,15 @@
         </test-method> <!-- updateResults -->
       </class> <!-- Web.TestCases.tDeleteItem -->
       <class name="Web.TestCases.tListItems">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Web.TestCases.tListItems@49e5f737]" started-at="2023-02-17T23:12:21 PST" name="beforeMethod" finished-at="2023-02-17T23:12:21 PST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="ListItems()[pri:1, instance:Web.TestCases.tListItems@49e5f737]" started-at="2023-02-17T23:12:21 PST" name="ListItems" finished-at="2023-02-17T23:12:24 PST" duration-ms="3152" status="PASS">
+        <test-method signature="ListItems()[pri:1, instance:Web.TestCases.tListItems@49e5f737]" started-at="2023-02-17T23:35:11 PST" name="ListItems" finished-at="2023-02-17T23:35:13 PST" duration-ms="2991" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ListItems -->
-        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:Web.TestCases.tListItems@49e5f737]" started-at="2023-02-17T23:12:24 PST" name="updateResults" finished-at="2023-02-17T23:12:24 PST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Web.TestCases.tListItems@49e5f737]" started-at="2023-02-17T23:35:11 PST" name="beforeMethod" finished-at="2023-02-17T23:35:11 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:Web.TestCases.tListItems@49e5f737]" started-at="2023-02-17T23:35:13 PST" name="updateResults" finished-at="2023-02-17T23:35:13 PST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -49,15 +49,15 @@
         </test-method> <!-- updateResults -->
       </class> <!-- Web.TestCases.tListItems -->
       <class name="RestAssured.FetchTODOList">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:RestAssured.FetchTODOList@33c911a1]" started-at="2023-02-17T23:12:08 PST" name="beforeMethod" finished-at="2023-02-17T23:12:08 PST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="FetchTODOList()[pri:0, instance:RestAssured.FetchTODOList@33c911a1]" started-at="2023-02-17T23:12:08 PST" name="FetchTODOList" finished-at="2023-02-17T23:12:08 PST" duration-ms="187" status="PASS">
+        <test-method signature="FetchTODOList()[pri:0, instance:RestAssured.FetchTODOList@33c911a1]" started-at="2023-02-17T23:34:57 PST" name="FetchTODOList" finished-at="2023-02-17T23:34:58 PST" duration-ms="204" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FetchTODOList -->
-        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:RestAssured.FetchTODOList@33c911a1]" started-at="2023-02-17T23:12:08 PST" name="updateResults" finished-at="2023-02-17T23:12:08 PST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:RestAssured.FetchTODOList@33c911a1]" started-at="2023-02-17T23:34:57 PST" name="beforeMethod" finished-at="2023-02-17T23:34:57 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:RestAssured.FetchTODOList@33c911a1]" started-at="2023-02-17T23:34:58 PST" name="updateResults" finished-at="2023-02-17T23:34:58 PST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -70,7 +70,11 @@
         </test-method> <!-- updateResults -->
       </class> <!-- RestAssured.FetchTODOList -->
       <class name="RestAssured.DeleteTODO">
-        <test-method signature="CreateTempTODO(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:RestAssured.DeleteTODO@45b4c3a9]" started-at="2023-02-17T23:12:09 PST" name="CreateTempTODO" description="Create and Delete ToDo" data-provider="DataFromExcel" finished-at="2023-02-17T23:12:10 PST" duration-ms="853" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:RestAssured.DeleteTODO@45b4c3a9]" started-at="2023-02-17T23:34:59 PST" name="beforeMethod" finished-at="2023-02-17T23:34:59 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="CreateTempTODO(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:RestAssured.DeleteTODO@45b4c3a9]" started-at="2023-02-17T23:34:59 PST" name="CreateTempTODO" description="Create and Delete ToDo" data-provider="DataFromExcel" finished-at="2023-02-17T23:35:00 PST" duration-ms="1003" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -89,11 +93,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CreateTempTODO -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:RestAssured.DeleteTODO@45b4c3a9]" started-at="2023-02-17T23:12:09 PST" name="beforeMethod" finished-at="2023-02-17T23:12:09 PST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:RestAssured.DeleteTODO@45b4c3a9]" started-at="2023-02-17T23:12:10 PST" name="updateResults" finished-at="2023-02-17T23:12:10 PST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:RestAssured.DeleteTODO@45b4c3a9]" started-at="2023-02-17T23:35:00 PST" name="updateResults" finished-at="2023-02-17T23:35:00 PST" duration-ms="3" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -104,15 +104,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- updateResults -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:RestAssured.DeleteTODO@45b4c3a9]" started-at="2023-02-17T23:12:10 PST" name="beforeMethod" finished-at="2023-02-17T23:12:10 PST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:RestAssured.DeleteTODO@45b4c3a9]" started-at="2023-02-17T23:35:00 PST" name="beforeMethod" finished-at="2023-02-17T23:35:00 PST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="DeleteTODO()[pri:2, instance:RestAssured.DeleteTODO@45b4c3a9]" started-at="2023-02-17T23:12:10 PST" name="DeleteTODO" finished-at="2023-02-17T23:12:11 PST" depends-on-methods="RestAssured.DeleteTODO.CreateTempTODO" duration-ms="865" status="PASS">
+        <test-method signature="DeleteTODO()[pri:2, instance:RestAssured.DeleteTODO@45b4c3a9]" started-at="2023-02-17T23:35:00 PST" name="DeleteTODO" finished-at="2023-02-17T23:35:01 PST" depends-on-methods="RestAssured.DeleteTODO.CreateTempTODO" duration-ms="897" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DeleteTODO -->
-        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:RestAssured.DeleteTODO@45b4c3a9]" started-at="2023-02-17T23:12:11 PST" name="updateResults" finished-at="2023-02-17T23:12:11 PST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:RestAssured.DeleteTODO@45b4c3a9]" started-at="2023-02-17T23:35:01 PST" name="updateResults" finished-at="2023-02-17T23:35:01 PST" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -125,11 +125,11 @@
         </test-method> <!-- updateResults -->
       </class> <!-- RestAssured.DeleteTODO -->
       <class name="RestAssured.CreateTODO">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:RestAssured.CreateTODO@385e9564]" started-at="2023-02-17T23:12:11 PST" name="beforeMethod" finished-at="2023-02-17T23:12:11 PST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:RestAssured.CreateTODO@385e9564]" started-at="2023-02-17T23:35:01 PST" name="beforeMethod" finished-at="2023-02-17T23:35:01 PST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="CreateTODO(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:RestAssured.CreateTODO@385e9564]" started-at="2023-02-17T23:12:11 PST" name="CreateTODO" description="Create New ToDo" data-provider="DataFromExcel" finished-at="2023-02-17T23:12:12 PST" duration-ms="427" status="PASS">
+        <test-method signature="CreateTODO(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:RestAssured.CreateTODO@385e9564]" started-at="2023-02-17T23:35:01 PST" name="CreateTODO" description="Create New ToDo" data-provider="DataFromExcel" finished-at="2023-02-17T23:35:01 PST" duration-ms="459" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -148,7 +148,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CreateTODO -->
-        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:RestAssured.CreateTODO@385e9564]" started-at="2023-02-17T23:12:12 PST" name="updateResults" finished-at="2023-02-17T23:12:12 PST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:RestAssured.CreateTODO@385e9564]" started-at="2023-02-17T23:35:01 PST" name="updateResults" finished-at="2023-02-17T23:35:01 PST" duration-ms="4" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -161,15 +161,15 @@
         </test-method> <!-- updateResults -->
       </class> <!-- RestAssured.CreateTODO -->
       <class name="Web.TestCases.tCreateItem">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Web.TestCases.tCreateItem@1f59a598]" started-at="2023-02-17T23:12:12 PST" name="beforeMethod" finished-at="2023-02-17T23:12:12 PST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Web.TestCases.tCreateItem@1f59a598]" started-at="2023-02-17T23:35:01 PST" name="beforeMethod" finished-at="2023-02-17T23:35:01 PST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="CreateItemTest()[pri:1, instance:Web.TestCases.tCreateItem@1f59a598]" started-at="2023-02-17T23:12:12 PST" name="CreateItemTest" finished-at="2023-02-17T23:12:19 PST" duration-ms="6887" status="PASS">
+        <test-method signature="CreateItemTest()[pri:1, instance:Web.TestCases.tCreateItem@1f59a598]" started-at="2023-02-17T23:35:01 PST" name="CreateItemTest" finished-at="2023-02-17T23:35:08 PST" duration-ms="7045" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CreateItemTest -->
-        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:Web.TestCases.tCreateItem@1f59a598]" started-at="2023-02-17T23:12:19 PST" name="updateResults" finished-at="2023-02-17T23:12:19 PST" duration-ms="4" status="PASS">
+        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:Web.TestCases.tCreateItem@1f59a598]" started-at="2023-02-17T23:35:08 PST" name="updateResults" finished-at="2023-02-17T23:35:08 PST" duration-ms="3" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -182,15 +182,15 @@
         </test-method> <!-- updateResults -->
       </class> <!-- Web.TestCases.tCreateItem -->
       <class name="Web.TestCases.tUpdateItem">
-        <test-method signature="UpdateItemTest()[pri:1, instance:Web.TestCases.tUpdateItem@26b3fd41]" started-at="2023-02-17T23:12:19 PST" name="UpdateItemTest" finished-at="2023-02-17T23:12:20 PST" duration-ms="1371" status="PASS">
+        <test-method signature="UpdateItemTest()[pri:1, instance:Web.TestCases.tUpdateItem@26b3fd41]" started-at="2023-02-17T23:35:08 PST" name="UpdateItemTest" finished-at="2023-02-17T23:35:10 PST" duration-ms="1145" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- UpdateItemTest -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Web.TestCases.tUpdateItem@26b3fd41]" started-at="2023-02-17T23:12:19 PST" name="beforeMethod" finished-at="2023-02-17T23:12:19 PST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Web.TestCases.tUpdateItem@26b3fd41]" started-at="2023-02-17T23:35:08 PST" name="beforeMethod" finished-at="2023-02-17T23:35:08 PST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:Web.TestCases.tUpdateItem@26b3fd41]" started-at="2023-02-17T23:12:20 PST" name="updateResults" finished-at="2023-02-17T23:12:20 PST" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:Web.TestCases.tUpdateItem@26b3fd41]" started-at="2023-02-17T23:35:10 PST" name="updateResults" finished-at="2023-02-17T23:35:10 PST" duration-ms="3" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -203,31 +203,31 @@
         </test-method> <!-- updateResults -->
       </class> <!-- Web.TestCases.tUpdateItem -->
       <class name="RestAssured.Authenticate">
-        <test-method is-config="true" signature="setup()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:12:03 PST" name="setup" finished-at="2023-02-17T23:12:04 PST" duration-ms="399" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:34:53 PST" name="setup" finished-at="2023-02-17T23:34:53 PST" duration-ms="357" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="SuiteStart()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:12:04 PST" name="SuiteStart" finished-at="2023-02-17T23:12:04 PST" depends-on-methods="ExtentReportBase.BaseExtent.setup" duration-ms="50" status="PASS">
+        <test-method is-config="true" signature="SuiteStart()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:34:53 PST" name="SuiteStart" finished-at="2023-02-17T23:34:53 PST" depends-on-methods="ExtentReportBase.BaseExtent.setup" duration-ms="38" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SuiteStart -->
-        <test-method is-config="true" signature="setBaseURI()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:12:04 PST" name="setBaseURI" finished-at="2023-02-17T23:12:05 PST" depends-on-methods="utility.FrameworkUtility.SuiteStart, ExtentReportBase.BaseExtent.setup" duration-ms="676" status="PASS">
+        <test-method is-config="true" signature="setBaseURI()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:34:53 PST" name="setBaseURI" finished-at="2023-02-17T23:34:54 PST" depends-on-methods="utility.FrameworkUtility.SuiteStart, ExtentReportBase.BaseExtent.setup" duration-ms="607" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setBaseURI -->
-        <test-method is-config="true" signature="TestStart()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:12:05 PST" name="TestStart" finished-at="2023-02-17T23:12:05 PST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="TestStart()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:34:54 PST" name="TestStart" finished-at="2023-02-17T23:34:54 PST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestStart -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:12:05 PST" name="beforeMethod" finished-at="2023-02-17T23:12:05 PST" duration-ms="88" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:34:54 PST" name="beforeMethod" finished-at="2023-02-17T23:34:54 PST" duration-ms="88" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="CheckAuth()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:12:05 PST" name="CheckAuth" finished-at="2023-02-17T23:12:07 PST" duration-ms="2755" status="PASS">
+        <test-method signature="CheckAuth()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:34:54 PST" name="CheckAuth" finished-at="2023-02-17T23:34:57 PST" duration-ms="3010" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckAuth -->
-        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:12:07 PST" name="updateResults" finished-at="2023-02-17T23:12:07 PST" duration-ms="8" status="PASS">
+        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:34:57 PST" name="updateResults" finished-at="2023-02-17T23:34:57 PST" duration-ms="12" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -238,15 +238,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- updateResults -->
-        <test-method signature="CheckInvalidAuth()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:12:07 PST" name="CheckInvalidAuth" finished-at="2023-02-17T23:12:08 PST" duration-ms="433" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- CheckInvalidAuth -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:12:07 PST" name="beforeMethod" finished-at="2023-02-17T23:12:07 PST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:34:57 PST" name="beforeMethod" finished-at="2023-02-17T23:34:57 PST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:12:08 PST" name="updateResults" finished-at="2023-02-17T23:12:08 PST" duration-ms="5" status="PASS">
+        <test-method signature="CheckInvalidAuth()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:34:57 PST" name="CheckInvalidAuth" finished-at="2023-02-17T23:34:57 PST" duration-ms="426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckInvalidAuth -->
+        <test-method is-config="true" signature="updateResults(org.testng.ITestResult)[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:34:57 PST" name="updateResults" finished-at="2023-02-17T23:34:57 PST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -257,7 +257,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- updateResults -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:12:24 PST" name="tearDown" finished-at="2023-02-17T23:12:25 PST" duration-ms="536" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:RestAssured.Authenticate@79d8407f]" started-at="2023-02-17T23:35:14 PST" name="tearDown" finished-at="2023-02-17T23:35:14 PST" duration-ms="525" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
