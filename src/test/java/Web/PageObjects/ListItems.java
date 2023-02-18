@@ -37,20 +37,16 @@ public class ListItems
 		System.out.println(noOfRows.size());
 
 		// List of Todo Items		
-		Boolean dataStatus = false;
-		for(WebElement ele:allItems)
-		{
-			String value = ele.getText();
-			System.out.println(value);
-		}
-		System.out.println("Total Records count from Frontend Table " + noOfRows.size());
+		/*
+		 * Boolean dataStatus = false; for(WebElement ele:allItems) { String value =
+		 * ele.getText(); System.out.println(value); }
+		 */		System.out.println("Total Records count from Frontend Table " + noOfRows.size());
 		
 		MSSQL obj = new MSSQL();		
 		ResultSet rs= obj.CheckTodoItemsMSSQL();
 		int size = 0;
 		while(rs.next()) 
 		{
-			System.out.println(rs.getString("title") + "   " + rs.getString("complete")); 
 			size++;
 		}
 
@@ -59,21 +55,14 @@ public class ListItems
 
 		rs= obj.CheckTodoItemsMSSQL();
 		//Check First column of the Todo Items with Database
-		System.out.println("Ticking");
+
 		for(WebElement ele:allItems)
 		{
 			rs.next();
-			System.out.println(ele.getText());
-			System.out.println(rs.getString("title"));
-			
-			if(ele.getText().equals(rs.getString("title")))
-			{
-				System.out.println(rs.getString("title") + " and  " + ele.getText()); 
-			}
-			else
+			if(!ele.getText().equals(rs.getString("title")))
 			{
 				System.out.println("Front end data is not matching with database");
-			}
-		}		
+			}		
+		}
 	}
 }

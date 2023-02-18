@@ -170,3 +170,123 @@ Session ID: 4c15509095f3fb5d64cd8a6219c8edab
 2023-02-17 21:08:20,908 - DMG Block Chain -INFO - Loading driver
 2023-02-17 21:08:22,264 - DMG Block Chain -INFO - Loading driver
 2023-02-17 21:08:23,600 - DMG Block Chain -INFO - Listing all todo item from frontend
+2023-02-17 22:47:58,622 - DMG Block Chain -INFO - Attempting for Successful Authentication
+2023-02-17 22:48:00,478 - DMG Block Chain -INFO - Return status code 200
+2023-02-17 22:48:01,389 - DMG Block Chain -INFO - Token not found in cookie
+2023-02-17 22:48:01,393 - DMG Block Chain -INFO - Authentication Successful passed
+2023-02-17 22:48:01,394 - DMG Block Chain -INFO - Current Token is: QpwL5tke4Pnpja7X4
+2023-02-17 22:48:01,862 - DMG Block Chain -INFO - Fetching all TODO Items
+2023-02-17 22:48:02,394 - DMG Block Chain -INFO - Asserting the response if the status code returned is 200
+2023-02-17 22:48:02,395 - DMG Block Chain -INFO - Fetched Items successfully
+2023-02-17 22:48:18,176 - DMG Block Chain -INFO - Created new todo item from frontend
+2023-02-17 22:48:19,810 - DMG Block Chain -INFO - Updated todo item from frontend
+2023-02-17 22:48:20,864 - DMG Block Chain -INFO - Deleted todo item from frontend
+2023-02-17 22:48:21,142 - DMG Block Chain -INFO - Loading driver
+2023-02-17 22:48:22,554 - DMG Block Chain -INFO - Loading driver
+2023-02-17 22:48:23,896 - DMG Block Chain -INFO - Listing all todo item from frontend
+2023-02-17 22:51:59,389 - DMG Block Chain -INFO - Attempting for Successful Authentication
+2023-02-17 22:52:01,360 - DMG Block Chain -INFO - Return status code 200
+2023-02-17 22:52:02,176 - DMG Block Chain -INFO - Token not found in cookie
+2023-02-17 22:52:02,179 - DMG Block Chain -INFO - Authentication Successful passed
+2023-02-17 22:52:02,181 - DMG Block Chain -INFO - Current Token is: QpwL5tke4Pnpja7X4
+2023-02-17 22:52:02,665 - DMG Block Chain -INFO - Fetching all TODO Items
+2023-02-17 22:52:02,853 - DMG Block Chain -INFO - Asserting the response if the status code returned is 200
+2023-02-17 22:52:02,857 - DMG Block Chain -INFO - Fetched Items successfully
+2023-02-17 22:52:12,908 - DMG Block Chain -INFO - Created new todo item from frontend
+2023-02-17 22:52:14,316 - DMG Block Chain -INFO - Updated todo item from frontend
+2023-02-17 22:52:15,370 - DMG Block Chain -INFO - Deleted todo item from frontend
+2023-02-17 22:52:15,645 - DMG Block Chain -INFO - Loading driver
+2023-02-17 22:52:17,007 - DMG Block Chain -INFO - Loading driver
+2023-02-17 22:52:18,280 - DMG Block Chain -INFO - Listing all todo item from frontend
+2023-02-17 22:53:20,285 - DMG Block Chain -INFO - Attempting for Successful Authentication
+2023-02-17 22:53:22,217 - DMG Block Chain -INFO - Return status code 200
+2023-02-17 22:53:22,989 - DMG Block Chain -INFO - Token not found in cookie
+2023-02-17 22:53:22,992 - DMG Block Chain -INFO - Authentication Successful passed
+2023-02-17 22:53:22,993 - DMG Block Chain -INFO - Current Token is: QpwL5tke4Pnpja7X4
+2023-02-17 22:53:23,408 - DMG Block Chain -INFO - Fetching all TODO Items
+2023-02-17 22:53:23,604 - DMG Block Chain -INFO - Asserting the response if the status code returned is 200
+2023-02-17 22:53:23,607 - DMG Block Chain -INFO - Fetched Items successfully
+2023-02-17 22:53:33,584 - DMG Block Chain -INFO - Created new todo item from frontend
+2023-02-17 22:53:35,034 - DMG Block Chain -INFO - Updated todo item from frontend
+2023-02-17 22:53:36,046 - DMG Block Chain -INFO - Deleted todo item from frontend
+2023-02-17 22:53:36,177 - DMG Block Chain -INFO - Loading driver
+2023-02-17 22:53:37,577 - DMG Block Chain -INFO - Loading driver
+2023-02-17 22:53:38,931 - DMG Block Chain -INFO - Listing all todo item from frontend
+2023-02-17 22:54:30,920 - DMG Block Chain -INFO - Attempting for Successful Authentication
+2023-02-17 22:54:33,179 - DMG Block Chain -INFO - Return status code 200
+2023-02-17 22:54:34,307 - DMG Block Chain -INFO - Token not found in cookie
+2023-02-17 22:54:34,309 - DMG Block Chain -INFO - Authentication Successful passed
+2023-02-17 22:54:34,309 - DMG Block Chain -INFO - Current Token is: QpwL5tke4Pnpja7X4
+2023-02-17 22:54:34,766 - DMG Block Chain -INFO - Fetching all TODO Items
+2023-02-17 22:54:34,995 - DMG Block Chain -INFO - Asserting the response if the status code returned is 200
+2023-02-17 22:54:34,997 - DMG Block Chain -INFO - Fetched Items successfully
+2023-02-17 22:54:47,318 - DMG Block Chain -INFO - Created new todo item from frontend
+2023-02-17 22:54:48,632 - DMG Block Chain -INFO - Updated todo item from frontend
+2023-02-17 22:54:49,679 - DMG Block Chain -INFO - Deleted todo item from frontend
+2023-02-17 22:55:46,324 - DMG Block Chain -INFO - Attempting for Successful Authentication
+2023-02-17 22:55:48,308 - DMG Block Chain -INFO - Return status code 200
+2023-02-17 22:55:49,241 - DMG Block Chain -INFO - Token not found in cookie
+2023-02-17 22:55:49,243 - DMG Block Chain -INFO - Authentication Successful passed
+2023-02-17 22:55:49,247 - DMG Block Chain -INFO - Current Token is: QpwL5tke4Pnpja7X4
+2023-02-17 22:55:49,707 - DMG Block Chain -INFO - Fetching all TODO Items
+2023-02-17 22:55:49,878 - DMG Block Chain -INFO - Asserting the response if the status code returned is 200
+2023-02-17 22:55:49,882 - DMG Block Chain -INFO - Fetched Items successfully
+2023-02-17 22:55:59,794 - DMG Block Chain -INFO - Created new todo item from frontend
+2023-02-17 22:56:01,175 - DMG Block Chain -INFO - Updated todo item from frontend
+2023-02-17 22:56:02,178 - DMG Block Chain -INFO - Deleted todo item from frontend
+2023-02-17 22:56:02,304 - DMG Block Chain -INFO - Loading driver
+2023-02-17 22:56:03,695 - DMG Block Chain -INFO - Loading driver
+2023-02-17 22:56:04,892 - DMG Block Chain -INFO - Listing all todo item from frontend
+2023-02-17 23:11:08,767 - DMG Block Chain -INFO - Attempting for Successful Authentication
+2023-02-17 23:11:10,687 - DMG Block Chain -INFO - Return status code 200
+2023-02-17 23:11:11,720 - DMG Block Chain -INFO - Token not found in cookie
+2023-02-17 23:11:11,721 - DMG Block Chain -INFO - Authentication Successful passed
+2023-02-17 23:11:11,723 - DMG Block Chain -INFO - Current Token is: QpwL5tke4Pnpja7X4
+2023-02-17 23:11:12,161 - DMG Block Chain -INFO - Fetching all TODO Items
+2023-02-17 23:11:12,343 - DMG Block Chain -INFO - Asserting the response if the status code returned is 200
+2023-02-17 23:11:12,346 - DMG Block Chain -INFO - Fetched Items successfully
+2023-02-17 23:11:25,210 - DMG Block Chain -INFO - Created new todo item from frontend
+2023-02-17 23:11:26,317 - DMG Block Chain -INFO - Updated todo item from frontend
+2023-02-17 23:11:27,242 - DMG Block Chain -INFO - Deleted todo item from frontend
+2023-02-17 23:11:27,298 - DMG Block Chain -INFO - com.microsoft.sqlserver.jdbc.SQLServerDriver
+2023-02-17 23:11:27,299 - DMG Block Chain -INFO - 
+2023-02-17 23:12:05,181 - DMG Block Chain -INFO - Attempting for Successful Authentication
+2023-02-17 23:12:07,116 - DMG Block Chain -INFO - Return status code 200
+2023-02-17 23:12:07,907 - DMG Block Chain -INFO - Token not found in cookie
+2023-02-17 23:12:07,908 - DMG Block Chain -INFO - Authentication Successful passed
+2023-02-17 23:12:07,909 - DMG Block Chain -INFO - Current Token is: QpwL5tke4Pnpja7X4
+2023-02-17 23:12:08,377 - DMG Block Chain -INFO - Fetching all TODO Items
+2023-02-17 23:12:08,558 - DMG Block Chain -INFO - Asserting the response if the status code returned is 200
+2023-02-17 23:12:08,560 - DMG Block Chain -INFO - Fetched Items successfully
+2023-02-17 23:12:19,286 - DMG Block Chain -INFO - Created new todo item from frontend
+2023-02-17 23:12:20,668 - DMG Block Chain -INFO - Updated todo item from frontend
+2023-02-17 23:12:21,667 - DMG Block Chain -INFO - Deleted todo item from frontend
+2023-02-17 23:12:21,808 - DMG Block Chain -INFO - Loading driver
+2023-02-17 23:12:23,324 - DMG Block Chain -INFO - Loading driver
+2023-02-17 23:12:24,692 - DMG Block Chain -INFO - Listing all todo item from frontend
+2023-02-17 23:12:46,682 - DMG Block Chain -INFO - Attempting for Successful Authentication
+2023-02-17 23:12:48,436 - DMG Block Chain -INFO - Return status code 200
+2023-02-17 23:12:49,180 - DMG Block Chain -INFO - Token not found in cookie
+2023-02-17 23:12:49,181 - DMG Block Chain -INFO - Authentication Successful passed
+2023-02-17 23:12:49,182 - DMG Block Chain -INFO - Current Token is: QpwL5tke4Pnpja7X4
+2023-02-17 23:12:49,628 - DMG Block Chain -INFO - Fetching all TODO Items
+2023-02-17 23:12:49,817 - DMG Block Chain -INFO - Asserting the response if the status code returned is 200
+2023-02-17 23:12:49,818 - DMG Block Chain -INFO - Fetched Items successfully
+2023-02-17 23:12:59,792 - DMG Block Chain -INFO - Created new todo item from frontend
+2023-02-17 23:13:01,159 - DMG Block Chain -INFO - Updated todo item from frontend
+2023-02-17 23:13:02,099 - DMG Block Chain -INFO - Deleted todo item from frontend
+2023-02-17 23:13:02,148 - DMG Block Chain -INFO - com.microsoft.sqlserver.jdbc.SQLServerDriver
+2023-02-17 23:13:02,148 - DMG Block Chain -INFO - 
+2023-02-17 23:13:50,969 - DMG Block Chain -INFO - Attempting for Successful Authentication
+2023-02-17 23:13:52,968 - DMG Block Chain -INFO - Return status code 200
+2023-02-17 23:13:53,740 - DMG Block Chain -INFO - Token not found in cookie
+2023-02-17 23:13:53,741 - DMG Block Chain -INFO - Authentication Successful passed
+2023-02-17 23:13:53,741 - DMG Block Chain -INFO - Current Token is: QpwL5tke4Pnpja7X4
+2023-02-17 23:13:54,246 - DMG Block Chain -INFO - Fetching all TODO Items
+2023-02-17 23:13:54,459 - DMG Block Chain -INFO - Asserting the response if the status code returned is 200
+2023-02-17 23:13:54,462 - DMG Block Chain -INFO - Fetched Items successfully
+2023-02-17 23:14:04,783 - DMG Block Chain -INFO - Created new todo item from frontend
+2023-02-17 23:14:06,121 - DMG Block Chain -INFO - Updated todo item from frontend
+2023-02-17 23:14:07,123 - DMG Block Chain -INFO - Deleted todo item from frontend
+2023-02-17 23:14:07,187 - DMG Block Chain -INFO - com.microsoft.sqlserver.jdbc.SQLServerDriver
+2023-02-17 23:14:07,188 - DMG Block Chain -INFO - 

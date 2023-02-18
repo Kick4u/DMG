@@ -3,19 +3,18 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="RestAssured.DeleteTODO">
+      <class name="Web.TestCases.tListItems">
         <methods>
+          <include name="ListItems"/>
           <include name="SuiteStart"/>
-          <include name="TestStart"/>
           <include name="setup"/>
+          <include name="TestStart"/>
           <include name="setBaseURI"/>
-          <include name="deleteTODO"/>
           <include name="beforeMethod"/>
           <include name="tearDown"/>
           <include name="updateResults"/>
-          <include name="createTempTODO"/>
         </methods>
-      </class> <!-- RestAssured.DeleteTODO -->
+      </class> <!-- Web.TestCases.tListItems -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
