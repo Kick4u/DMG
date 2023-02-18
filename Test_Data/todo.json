@@ -1,0 +1,84 @@
+{
+  "todos": [
+    {
+      "title": "Gym Plan",
+      "complete": false,
+      "id": 1
+    },
+    {
+      "title": "Movie Plan",
+      "complete": true,
+      "id": 2
+    },
+    {
+      "title": "DSU Meeting",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "DSU Meeting",
+      "complete": true,
+      "id": 4
+    },
+    {
+      "title": "Sprint Plan",
+      "complete": false,
+      "id": 5
+    },
+    {
+      "title": "DSU Meeting",
+      "complete": true,
+      "id": 6
+    },
+    {
+      "title": "Sprint Plan",
+      "complete": false,
+      "id": 7
+    },
+    {
+      "title": "DSU Meeting",
+      "complete": true,
+      "id": 8
+    },
+    {
+      "title": "Sprint Plan",
+      "complete": false,
+      "id": 9
+    },
+    {
+      "title": "DSU Meeting",
+      "complete": true,
+      "id": 10
+    },
+    {
+      "title": "Sprint Plan",
+      "complete": false,
+      "id": 11
+    },
+    {
+      "title": "DSU Meeting",
+      "complete": true,
+      "id": 12
+    },
+    {
+      "title": "Sprint Plan",
+      "complete": false,
+      "id": 13
+    },
+    {
+      "title": "DSU Meeting",
+      "complete": true,
+      "id": 14
+    },
+    {
+      "title": "Sprint Plan",
+      "complete": false,
+      "id": 15
+    },
+    {
+      "title": "DSU Meeting",
+      "complete": true,
+      "id": 16
+    }
+  ]
+}

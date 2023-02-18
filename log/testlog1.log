@@ -1,0 +1,172 @@
+2023-02-15 15:49:20,308 [main] INFO Letz Start - Testing log
+2023-02-15 15:53:47,572 [main] INFO Letz Start - Testing log
+2023-02-15 15:53:49,598 [main] INFO Letz Start - Return status code 200
+2023-02-15 15:53:50,342 [main] INFO Letz Start - Token not found in cookie
+2023-02-15 15:53:50,343 [main] INFO Letz Start - Authentication Successful passed
+2023-02-15 15:53:50,791 [main] INFO Letz Start - Fetching all TODO Items
+2023-02-15 15:53:50,936 [main] INFO Letz Start - Asserting the response if the status code returned is 200
+2023-02-15 15:53:50,938 [main] INFO Letz Start - Fetched Items successfully
+2023-02-16 08:25:43,907 [main] INFO Letz Start - Testing log
+2023-02-16 08:25:46,953 [main] INFO Letz Start - Return status code 200
+2023-02-16 08:25:48,712 [main] INFO Letz Start - Token not found in cookie
+2023-02-16 08:25:48,809 [main] INFO Letz Start - Authentication Successful passed
+2023-02-16 08:25:49,345 [main] INFO Letz Start - Fetching all TODO Items
+2023-02-16 08:25:50,170 [main] INFO Letz Start - Asserting the response if the status code returned is 200
+2023-02-16 08:25:50,174 [main] INFO Letz Start - Fetched Items successfully
+2023-02-16 17:38:58,968 [main] INFO Letz Start - Fetching all TODO Items
+2023-02-16 17:39:03,411 [main] INFO Letz Start - Asserting the response if the status code returned is 200
+2023-02-16 17:39:03,453 [main] INFO Letz Start - Fetched Items successfully
+2023-02-17 19:56:06,749 [main] INFO DMG Block Chain - Testing log
+2023-02-17 19:56:08,740 [main] INFO DMG Block Chain - Return status code 200
+2023-02-17 19:56:09,635 [main] INFO DMG Block Chain - Token not found in cookie
+2023-02-17 19:56:09,636 [main] INFO DMG Block Chain - Authentication Successful passed
+2023-02-17 20:05:11,254 [main] INFO DMG Block Chain - Attempting for Successful Authentication
+2023-02-17 20:05:13,356 [main] INFO DMG Block Chain - Return status code 200
+2023-02-17 20:05:14,050 [main] INFO DMG Block Chain - Token not found in cookie
+2023-02-17 20:05:14,052 [main] INFO DMG Block Chain - Authentication Successful passed
+2023-02-17 20:05:14,054 [main] INFO DMG Block Chain - Current Token is: QpwL5tke4Pnpja7X4
+2023-02-17 20:12:33,510 [main] INFO DMG Block Chain - Attempting for Successful Authentication
+2023-02-17 20:12:35,683 [main] INFO DMG Block Chain - Return status code 200
+2023-02-17 20:12:36,419 [main] INFO DMG Block Chain - Token not found in cookie
+2023-02-17 20:12:36,420 [main] INFO DMG Block Chain - Authentication Successful passed
+2023-02-17 20:12:36,422 [main] INFO DMG Block Chain - Current Token is: QpwL5tke4Pnpja7X4
+2023-02-17 20:16:53,659 [main] INFO DMG Block Chain - Attempting for Successful Authentication
+2023-02-17 20:16:55,537 [main] INFO DMG Block Chain - Return status code 200
+2023-02-17 20:16:56,344 [main] INFO DMG Block Chain - Token not found in cookie
+2023-02-17 20:16:56,347 [main] INFO DMG Block Chain - Authentication Successful passed
+2023-02-17 20:16:56,348 [main] INFO DMG Block Chain - Current Token is: QpwL5tke4Pnpja7X4
+2023-02-17 20:16:56,799 [main] INFO DMG Block Chain - Fetching all TODO Items
+2023-02-17 20:16:56,980 [main] INFO DMG Block Chain - Asserting the response if the status code returned is 200
+2023-02-17 20:16:56,983 [main] INFO DMG Block Chain - Fetched Items successfully
+2023-02-17 20:19:08,838 [main] INFO DMG Block Chain - Loading driver
+2023-02-17 20:19:09,886 [main] INFO DMG Block Chain - Connected with DB
+2023-02-17 20:19:10,156 [main] INFO DMG Block Chain - Loading driver
+2023-02-17 20:19:11,048 [main] INFO DMG Block Chain - Connected with DB
+2023-02-17 20:19:11,377 [main] INFO DMG Block Chain - Listing all todo item from frontend
+2023-02-17 20:19:11,628 [main] INFO DMG Block Chain - invalid session id
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a962566c3457c644b6b61a42cd7ca977, findElement {using=xpath, value=//a[contains(text(),"Create New")]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.96, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55069}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55069/devtoo..., se:cdpVersion: 110.0.5481.96, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a962566c3457c644b6b61a42cd7ca977
+2023-02-17 20:19:11,651 [main] INFO DMG Block Chain - invalid session id
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a962566c3457c644b6b61a42cd7ca977, findElement {using=xpath, value=//table/tbody/tr[2]/td[3]//a[contains(text(),'Edit')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.96, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55069}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55069/devtoo..., se:cdpVersion: 110.0.5481.96, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a962566c3457c644b6b61a42cd7ca977
+2023-02-17 20:19:11,669 [main] INFO DMG Block Chain - invalid session id
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a962566c3457c644b6b61a42cd7ca977, findElement {using=xpath, value=//table/tbody/tr[2]/td[3]//a[contains(text(),'Delete')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.96, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55069}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55069/devtoo..., se:cdpVersion: 110.0.5481.96, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a962566c3457c644b6b61a42cd7ca977
+2023-02-17 20:22:20,554 [main] INFO DMG Block Chain - Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-02-17 20:22:20,593 [main] INFO DMG Block Chain - Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-02-17 20:22:20,608 [main] INFO DMG Block Chain - Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-02-17 20:22:25,552 [main] INFO DMG Block Chain - Loading driver
+2023-02-17 20:22:26,744 [main] INFO DMG Block Chain - Connected with DB
+2023-02-17 20:22:26,989 [main] INFO DMG Block Chain - Loading driver
+2023-02-17 20:22:27,862 [main] INFO DMG Block Chain - Connected with DB
+2023-02-17 20:22:28,189 [main] INFO DMG Block Chain - Listing all todo item from frontend
+2023-02-17 20:26:02,304 [main] INFO DMG Block Chain - Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-02-17 20:26:13,567 [main] INFO DMG Block Chain - Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-02-17 20:26:42,372 [main] INFO DMG Block Chain - Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-02-17 20:27:37,089 [main] INFO DMG Block Chain - Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-02-17 20:30:36,567 [main] INFO DMG Block Chain - Cannot invoke "org.openqa.selenium.SearchContext.findElements(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-02-17 20:32:21,045 [main] INFO DMG Block Chain - Loading driver
+2023-02-17 20:32:22,194 [main] INFO DMG Block Chain - Connected with DB
+2023-02-17 20:32:22,438 [main] INFO DMG Block Chain - Loading driver
+2023-02-17 20:32:23,321 [main] INFO DMG Block Chain - Connected with DB
+2023-02-17 20:32:23,639 [main] INFO DMG Block Chain - Listing all todo item from frontend
+2023-02-17 20:33:41,444 [main] INFO DMG Block Chain - Created new todo item from frontend
+2023-02-17 20:35:16,348 [main] INFO DMG Block Chain - Created new todo item from frontend
+2023-02-17 20:36:05,431 [main] INFO DMG Block Chain - Updated todo item from frontend
+2023-02-17 20:36:42,619 [main] INFO DMG Block Chain - Deleted todo item from frontend
+2023-02-17 20:37:35,705 [main] INFO DMG Block Chain - Created new todo item from frontend
+2023-02-17 20:37:35,907 [main] INFO DMG Block Chain - invalid session id
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4c15509095f3fb5d64cd8a6219c8edab, findElement {using=xpath, value=//table/tbody/tr[2]/td[3]//a[contains(text(),'Edit')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.96, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:56009}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56009/devtoo..., se:cdpVersion: 110.0.5481.96, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4c15509095f3fb5d64cd8a6219c8edab
+2023-02-17 20:37:35,921 [main] INFO DMG Block Chain - invalid session id
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4c15509095f3fb5d64cd8a6219c8edab, findElement {using=xpath, value=//table/tbody/tr[2]/td[3]//a[contains(text(),'Delete')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.96, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:56009}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56009/devtoo..., se:cdpVersion: 110.0.5481.96, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4c15509095f3fb5d64cd8a6219c8edab
+2023-02-17 20:37:35,943 [main] INFO DMG Block Chain - invalid session id
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4c15509095f3fb5d64cd8a6219c8edab, findElements {using=xpath, value=//table/tbody/tr}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.96, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\Dell\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:56009}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56009/devtoo..., se:cdpVersion: 110.0.5481.96, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4c15509095f3fb5d64cd8a6219c8edab
+2023-02-17 20:43:47,782 [main] INFO DMG Block Chain - Created new todo item from frontend
+2023-02-17 20:43:48,837 [main] INFO DMG Block Chain - Updated todo item from frontend
+2023-02-17 20:45:04,343 [main] INFO DMG Block Chain - Created new todo item from frontend
+2023-02-17 20:45:05,378 [main] INFO DMG Block Chain - Updated todo item from frontend
+2023-02-17 20:45:06,339 [main] INFO DMG Block Chain - Deleted todo item from frontend
+2023-02-17 20:45:06,594 [main] INFO DMG Block Chain - Loading driver
+2023-02-17 20:45:07,742 [main] INFO DMG Block Chain - Connected with DB
+2023-02-17 20:45:07,999 [main] INFO DMG Block Chain - Loading driver
+2023-02-17 20:45:08,889 [main] INFO DMG Block Chain - Connected with DB
+2023-02-17 20:45:09,294 [main] INFO DMG Block Chain - Listing all todo item from frontend
+2023-02-17 20:45:38,331 [main] INFO DMG Block Chain - Created new todo item from frontend
+2023-02-17 20:45:41,442 [main] INFO DMG Block Chain - Updated todo item from frontend
+2023-02-17 20:45:42,337 [main] INFO DMG Block Chain - Deleted todo item from frontend
+2023-02-17 20:45:42,581 [main] INFO DMG Block Chain - Loading driver
+2023-02-17 20:45:43,702 [main] INFO DMG Block Chain - Connected with DB
+2023-02-17 20:45:43,930 [main] INFO DMG Block Chain - Loading driver
+2023-02-17 20:45:44,842 [main] INFO DMG Block Chain - Connected with DB
+2023-02-17 20:45:45,225 [main] INFO DMG Block Chain - Listing all todo item from frontend
+2023-02-17 20:46:50,324 [main] INFO DMG Block Chain - Attempting for Successful Authentication
+2023-02-17 20:46:52,192 [main] INFO DMG Block Chain - Return status code 200
+2023-02-17 20:46:53,033 [main] INFO DMG Block Chain - Token not found in cookie
+2023-02-17 20:46:53,038 [main] INFO DMG Block Chain - Authentication Successful passed
+2023-02-17 20:46:53,041 [main] INFO DMG Block Chain - Current Token is: QpwL5tke4Pnpja7X4
+2023-02-17 20:46:53,520 [main] INFO DMG Block Chain - Fetching all TODO Items
+2023-02-17 20:46:53,695 [main] INFO DMG Block Chain - Asserting the response if the status code returned is 200
+2023-02-17 20:46:53,699 [main] INFO DMG Block Chain - Fetched Items successfully
+2023-02-17 20:47:03,417 [main] INFO DMG Block Chain - Created new todo item from frontend
+2023-02-17 20:47:04,482 [main] INFO DMG Block Chain - Updated todo item from frontend
+2023-02-17 20:47:05,358 [main] INFO DMG Block Chain - Deleted todo item from frontend
+2023-02-17 20:47:05,590 [main] INFO DMG Block Chain - Loading driver
+2023-02-17 20:47:06,668 [main] INFO DMG Block Chain - Connected with DB
+2023-02-17 20:47:06,909 [main] INFO DMG Block Chain - Loading driver
+2023-02-17 20:47:07,762 [main] INFO DMG Block Chain - Connected with DB
+2023-02-17 20:47:08,168 [main] INFO DMG Block Chain - Listing all todo item from frontend
+2023-02-17 20:55:46,786 [main] INFO DMG Block Chain - Attempting for Successful Authentication
+2023-02-17 20:55:48,652 [main] INFO DMG Block Chain - Return status code 200
+2023-02-17 20:55:49,430 [main] INFO DMG Block Chain - Token not found in cookie
+2023-02-17 20:55:49,432 [main] INFO DMG Block Chain - Authentication Successful passed
+2023-02-17 20:55:49,435 [main] INFO DMG Block Chain - Current Token is: QpwL5tke4Pnpja7X4
+2023-02-17 20:55:49,870 [main] INFO DMG Block Chain - Fetching all TODO Items
+2023-02-17 20:55:50,037 [main] INFO DMG Block Chain - Asserting the response if the status code returned is 200
+2023-02-17 20:55:50,041 [main] INFO DMG Block Chain - Fetched Items successfully
+2023-02-17 20:55:59,977 [main] INFO DMG Block Chain - Created new todo item from frontend
+2023-02-17 20:56:01,223 [main] INFO DMG Block Chain - Updated todo item from frontend
+2023-02-17 20:56:02,108 [main] INFO DMG Block Chain - Deleted todo item from frontend
+2023-02-17 20:56:02,365 [main] INFO DMG Block Chain - Loading driver
+2023-02-17 20:56:03,684 [main] INFO DMG Block Chain - Loading driver
+2023-02-17 20:56:04,975 [main] INFO DMG Block Chain - Listing all todo item from frontend
+2023-02-17 21:08:04,490 [main] INFO DMG Block Chain - Attempting for Successful Authentication
+2023-02-17 21:08:06,266 [main] INFO DMG Block Chain - Return status code 200
+2023-02-17 21:08:07,244 [main] INFO DMG Block Chain - Token not found in cookie
+2023-02-17 21:08:07,249 [main] INFO DMG Block Chain - Authentication Successful passed
+2023-02-17 21:08:07,251 [main] INFO DMG Block Chain - Current Token is: QpwL5tke4Pnpja7X4
+2023-02-17 21:08:07,725 [main] INFO DMG Block Chain - Fetching all TODO Items
+2023-02-17 21:08:07,929 [main] INFO DMG Block Chain - Asserting the response if the status code returned is 200
+2023-02-17 21:08:07,931 [main] INFO DMG Block Chain - Fetched Items successfully
+2023-02-17 21:08:18,700 [main] INFO DMG Block Chain - Created new todo item from frontend
+2023-02-17 21:08:19,775 [main] INFO DMG Block Chain - Updated todo item from frontend
+2023-02-17 21:08:20,696 [main] INFO DMG Block Chain - Deleted todo item from frontend
+2023-02-17 21:08:20,908 [main] INFO DMG Block Chain - Loading driver
+2023-02-17 21:08:22,264 [main] INFO DMG Block Chain - Loading driver
+2023-02-17 21:08:23,600 [main] INFO DMG Block Chain - Listing all todo item from frontend

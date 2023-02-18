@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="RestAssured.Authenticate"/>
+      <class name="RestAssured.FetchTODOList"/>
+      <class name="RestAssured.DeleteTODO"/>
+      <class name="RestAssured.CreateTODO"/>
+      
+       <class name="DBTesting.MSSQL"/>
+      
+       <class name="Web.TestCases.tCreateItem"/> 
+       <class name="Web.TestCases.tUpdateItem"/>
+        <class name="Web.TestCases.tDeleteItem"/>        
+       <class name="Web.TestCases.tListItems"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,130 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>10/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Feb 17 21:08:04 PST 2023</td>
+</tr>
+<tr><td>Total time:</td><td>19 seconds (19487 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='RestAssured.Authenticate.CheckInvalidAuth()'><b>CheckInvalidAuth</b><br>Test class: RestAssured.Authenticate</td>
+<td></td>
+<td>0</td>
+<td>RestAssured.Authenticate@4b8d604b</td></tr>
+<tr>
+<td title='RestAssured.CreateTODO.CreateTODO()'><b>CreateTODO</b><br>Test class: RestAssured.CreateTODO<br>Test method: Create New ToDo<br>Parameters: DSU Meeting, x@xx.xxx, null</td>
+<td></td>
+<td>0</td>
+<td>RestAssured.CreateTODO@c05fddc</td></tr>
+<tr>
+<td title='RestAssured.FetchTODOList.FetchTODOList()'><b>FetchTODOList</b><br>Test class: RestAssured.FetchTODOList</td>
+<td></td>
+<td>0</td>
+<td>RestAssured.FetchTODOList@1c742ed4</td></tr>
+<tr>
+<td title='Web.TestCases.tListItems.ListItems()'><b>ListItems</b><br>Test class: Web.TestCases.tListItems</td>
+<td></td>
+<td>3</td>
+<td>Web.TestCases.tListItems@16150369</td></tr>
+<tr>
+<td title='RestAssured.DeleteTODO.DeleteTODO()'><b>DeleteTODO</b><br>Test class: RestAssured.DeleteTODO</td>
+<td></td>
+<td>0</td>
+<td>RestAssured.DeleteTODO@69c81773</td></tr>
+<tr>
+<td title='RestAssured.DeleteTODO.CreateTempTODO()'><b>CreateTempTODO</b><br>Test class: RestAssured.DeleteTODO<br>Test method: Create and Delete ToDo<br>Parameters: Sprint Meeting, x@xx.xxx, null</td>
+<td></td>
+<td>0</td>
+<td>RestAssured.DeleteTODO@69c81773</td></tr>
+<tr>
+<td title='Web.TestCases.tCreateItem.CreateItemTest()'><b>CreateItemTest</b><br>Test class: Web.TestCases.tCreateItem</td>
+<td></td>
+<td>6</td>
+<td>Web.TestCases.tCreateItem@60f00693</td></tr>
+<tr>
+<td title='Web.TestCases.tDeleteItem.DeleteItemTest()'><b>DeleteItemTest</b><br>Test class: Web.TestCases.tDeleteItem</td>
+<td></td>
+<td>0</td>
+<td>Web.TestCases.tDeleteItem@97e93f1</td></tr>
+<tr>
+<td title='RestAssured.Authenticate.CheckAuth()'><b>CheckAuth</b><br>Test class: RestAssured.Authenticate</td>
+<td></td>
+<td>2</td>
+<td>RestAssured.Authenticate@4b8d604b</td></tr>
+<tr>
+<td title='Web.TestCases.tUpdateItem.UpdateItemTest()'><b>UpdateItemTest</b><br>Test class: Web.TestCases.tUpdateItem</td>
+<td></td>
+<td>1</td>
+<td>Web.TestCases.tUpdateItem@1a4927d6</td></tr>
+</table><p>
+</body>
+</html>
